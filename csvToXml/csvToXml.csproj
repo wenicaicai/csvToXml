@@ -53,9 +53,6 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="demo_LinqToXml\demoData_xml\CustomersOrders.xml" />
-    <Content Include="tryVue\html\quickHtml.html" />
-    <Content Include="tryVue\theAuthor\hansomeMan.jpg" />
-    <Content Include="tryVue\theAuthor\YuXi·You.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
